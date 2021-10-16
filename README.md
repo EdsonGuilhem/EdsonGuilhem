@@ -1,6 +1,6 @@
 Olá 👋 Bem Vindo  eu sou o Edson Guilhem 👋 ✨ 
 
- 🔥 Sou aluno de Análise e Desenvolvimento de Sistemas pela Faculdade Uniderp.
+ 🔥 Sou aluno de Análise e Desenvolvimento de Sistemas pela Universidade Uniderp.
   
   ✔️ Estudando Desenvolvimento Web com JavaScript e React ✔️ 
   
