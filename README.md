@@ -28,5 +28,5 @@ Olá 👋 Bem Vindo  eu sou o Edson Guilhem 👋 ✨
   ## Technical Skills
   Node.js, Javascript, Typescript, Python, Containerization, Docker, Automation,
   Cloud, AWS, Java, Angular, React, CSS3, SCSS,
-  HTML5, TDD, Agile, SCRUM, Git e GitHub.
+  HTML5, TDD, SCRUM, Git e GitHub.
  
