@@ -1,9 +1,14 @@
-Olá 👋 Bem Vindo  eu sou o Edson Guilhem 👋 ✨ 
 
- 🔥 Sou aluno de Análise e Desenvolvimento de Sistemas pela Universidade Uniderp.
-  
-  ✔️ Estudando Desenvolvimento Web com JavaScript e React ✔️ 
-  
+Olá, me chamo Edson Pedroso Guilhem, tenho 25 anos, curso Análise e Desenvolvimento de Sistemas ⚛️ e iniciei meus estudos em 2021 no desenvolvimento Web.
+
+Me sinto confiante em dizer que hoje, JavaScript é umas das minhas linguagens favoritas e que mais domino, mas tendo muito o que aprender. Pra mim o importante é manter o constante aprendizado. E eu estou extremamente motivado a desenvolver constantemente minhas skills e crescer cada vez mais como dev 👨‍💻.
+
+# Meus valores ✨
+
+- Trabalho em grupo
+- Constante aprendizado
+- Prazos de projetos
+- Apaixonado por tecnologia
   
 
   <div align="center">
