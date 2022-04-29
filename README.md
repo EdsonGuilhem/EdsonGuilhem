@@ -31,7 +31,6 @@ Me sinto confiante em dizer que hoje, JavaScript é umas das minhas linguagens f
   
  
   ## Technical Skills
-  Node.js, Javascript, Typescript, Python, Containerization, Docker, Automation,
-  Cloud, AWS, Java, Angular, React, CSS3, SCSS,
-  HTML5, TDD, SCRUM, Git e GitHub.
+  
+  Javascript, Node.js, Typescript, Python, Java, Docker, UML, Cloud, AWS, Angular, React, Vue, Wordpress, CSS3, HTML5, TDD, SQL, SCRUM, XP, Git e GitHub.
  
